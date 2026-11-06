@@ -1,0 +1,12 @@
+<testsuites id="" name="" tests="4" failures="0" skipped="0" errors="0" time="3.532991">
+<testsuite name="menu.spec.js" timestamp="2026-11-06T09:31:17.963Z" hostname="" tests="4" failures="0" skipped="0" time="7.811" errors="0">
+<testcase name="SauceDemo - Burger Menu › MENU-01: menu opens and navigation links are visible" classname="menu.spec.js" time="1.16">
+</testcase>
+<testcase name="SauceDemo - Burger Menu › MENU-02: menu can be closed" classname="menu.spec.js" time="2.745">
+</testcase>
+<testcase name="SauceDemo - Burger Menu › MENU-03: user can log out" classname="menu.spec.js" time="1.959">
+</testcase>
+<testcase name="SauceDemo - Burger Menu › MENU-04: Reset App State clears the cart" classname="menu.spec.js" time="1.947">
+</testcase>
+</testsuite>
+</testsuites>
