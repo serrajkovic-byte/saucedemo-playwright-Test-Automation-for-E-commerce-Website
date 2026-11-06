@@ -31,7 +31,7 @@ jobs:
 
       - name: Upload test reports and artifacts
         if: ${{ !cancelled() }}
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v7
         with:
           name: saucedemo-playwright-results
           path: |
